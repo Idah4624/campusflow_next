@@ -5,7 +5,7 @@
 
 CampusFlow Next is a Python command-line application designed to manage campus service requests and tickets. It helps users create and manage tickets, maintain consistent records, search for requests, prioritize outstanding work, and understand the overall workload through reports.
 
-The project is developed through a two-engineer collaboration. Engineer A focuses on ticket validation, workflow rules, and data storage, while Engineer B focuses on search, reporting, queue management, and command-line integration.
+The project is developed through a two-engineer collaboration. Engineer A focuses on workflow rules, ticket validation, and data storage, while Engineer B focuses on search, reporting, queue management, and command-line integration.
 
 Together, both engineers contribute to a more reliable, maintainable, and useful application.
 
